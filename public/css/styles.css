@@ -1,0 +1,12 @@
+:root {
+    --main-bg-color: #FBFBFB;
+    --main-title-color: #9e4770;
+    --main-sub-title-color: #2E2532;
+    --main-sub-title2-color: #201A23;
+    --main-bg2-color:#631D76;
+    
+}
+
+body{
+    margin: 0; 
+}
